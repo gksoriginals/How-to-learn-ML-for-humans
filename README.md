@@ -13,7 +13,7 @@ Programming knowledge is a must obviously.
 3. Writing methods and using decorators.
 4. Object oriented python: class, inheritance.
 
-:bulb: The book [automate the boring stuff](https:automatetheboringstuff.com) is a good resource.
+:bulb: The book [automate the boring stuff](https://automatetheboringstuff.com) is a good resource.
 
 
 :crystal_ball: [Articles](https://pythonprogramming.net) and [Youtube videos](https://www.youtube.com/user/sentdex) by [Sentdex](https://twitter.com/Sentdex) is awesome!
@@ -60,6 +60,7 @@ Use various resources in the internet to understand the concepts of following ma
 And the lists goes on...
 
 :bulb: Check out this [awesome machine learning tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) repo.
+:crystal_ball: Checkout [d2l](http://d2l.ai/) for learning algorithm implementation
 
 #### Pro tip : Learn the maths on the go. Means check out the maths part when you get stuck instead of going through maths first.
 
@@ -107,6 +108,12 @@ A lot of publicly available datasets can be found in the internet. Two popular s
 ### 5. Collect dataset using crowd source or other means
 
 ![alt text](https://www.mathrubhumi.com/polopoly_fs/1.4405146.1577772498!/image/image.png_gen/derivatives/landscape_894_577/image.png)
+
+
+- Build an app for collecting dataset and share with friends
+- Use google form for collecting data
+- Scrap the dataset from various websites (be careful about copyright)
+- Connect with authorities having data like govt to collaborate.
 
 ### 6. Train. Evaluate. Tune. Repeat.
 - Use pretrained models or build ML models.
