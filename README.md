@@ -60,6 +60,7 @@ Use various resources in the internet to understand the concepts of following ma
 And the lists goes on...
 
 :bulb: Check out this [awesome machine learning tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) repo.
+
 :crystal_ball: Checkout [d2l](http://d2l.ai/) for learning algorithm implementation
 
 #### Pro tip : Learn the maths on the go. Means check out the maths part when you get stuck instead of going through maths first.
