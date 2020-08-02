@@ -31,7 +31,7 @@ Things you need and need not.
 
 ### Next steps with programming (recommended)
 Do the following to take python learning to the next level
-1. Build a python project.
+1. Build a python project and opensource.
 2. Learn building a backend web app using [flask](https://flask.palletsprojects.com/en/1.1.x/)/[django](https://www.djangoproject.com)/[responder](https://responder.kennethreitz.org/en/latest/)
 
 ## ML algorithms and its Mathematics :1234:
