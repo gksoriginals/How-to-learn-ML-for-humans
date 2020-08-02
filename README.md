@@ -14,6 +14,8 @@ Programming knowledge is a must obviously.
 4. Object oriented python: class, inheritance.
 
 :bulb: The book [automate the boring stuff](https:automatetheboringstuff.com) is a good resource.
+
+
 :crystal_ball: [Articles](https://pythonprogramming.net) and [Youtube videos](https://www.youtube.com/user/sentdex) by [Sentdex](https://twitter.com/Sentdex) is awesome!
 
 ### Install and setup stuffs :construction:
