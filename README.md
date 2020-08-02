@@ -65,9 +65,9 @@ This is an important part. Learning how to implement ML algorithms :boom:
 - Try to implement the ML algorithms with vanilla python and the following libraries. 
 
 ### Packages to use
-1. Numpy : For nuemerical computations
-2. Pandas : For data preproessing 
-3. Matplotlib : For plotting the data 
+1. [Numpy](https://numpy.org) : For nuemerical computations
+2. [Pandas](https://pandas.pydata.org) : For data preproessing 
+3. [Matplotlib](https://matplotlib.org) : For plotting the data 
 
 ## ML libraries and doing projects
 Now you can learn an ML library and start doing projects in ML.
