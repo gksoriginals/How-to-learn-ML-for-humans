@@ -115,7 +115,7 @@ A lot of publicly available datasets can be found in the internet. Two popular s
 - Don't forget to open source or publish your project.
 
 ## Next steps
-AI/ML is growinf fastly day by day. Focusing on a particular area of AI after learning and doing the foundational elements would be nice!
+AI/ML is growing fastly day by day. Focusing on a particular area of AI after learning and doing the foundational elements would be nice!
 
 :bulb: Following are some of the interesting areas in AI
 
