@@ -59,7 +59,7 @@ And the lists goes on...
 
 :bulb: Check out this [awesome machine learning tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) repo.
 
-#### Pro tip : Learn the maths on the go. Means check out the maths part when you get stuck instea of going through maths first.
+#### Pro tip : Learn the maths on the go. Means check out the maths part when you get stuck instead of going through maths first.
 
 ## Implementing the algorithms :woman_technologist:
 
