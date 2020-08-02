@@ -29,7 +29,7 @@ Things you need and need not.
 
 :bulb: Make sure you integrated installed python with your IDE and [intellisense](https://docs.microsoft.com/en-us/visualstudio/ide/using-intellisense?view=vs-2019) works fine.
 
-:full_moon_with_face: for god sake don't use notepad to code!
+#### :full_moon_with_face: for god sake don't use notepad to code!
 
 ### Next steps with programming (recommended)
 Do the following to take python learning to the next level
