@@ -118,6 +118,33 @@ AI/ML is growinf fastly day by day. Focusing on a particular area of AI after le
 :bulb: Following are some of the interesting areas in AI
 
 ###  On device AI/ML
+Instead of sending inputs from client like images, speech..etc to the ML model in server, on device AI/ML helps to do the inference in client side with the help of AI chips (like bionic chip in iPhone) and libraries like,
+- [Core ML](https://developer.apple.com/documentation/coreml)
+- [Tensorflow lite](https://www.tensorflow.org/lite)
+- [Pytorch mobile](https://pytorch.org/mobile/home/)
+
+### Privacy preserved AI/ML
+
+Techniques like federated learning helps to train models on device and share the model to the servers(and other clients) instead of sending data to the servers and training there. Means your data is private and safe!
+
+- [Openmind pysyft](https://www.openmined.org)
+- [Tensorflow Federated](https://www.tensorflow.org/federated)
+
+### Computer Vision and NLP
+Two major fields in AI/ML. Learn both or specialise in one :information_desk_person:
+
+### Robotics and edge computing
+
+Deep reinforcement learning techniques and various other AI/ML algorithms are used in applications like robotics, automation and IoT. 
+
+- [OpenAI gym](https://gym.openai.com)
+- [Tensorflow lite](https://www.tensorflow.org/lite) for Raspberry Pi and microcontrollers
+
+
+Thank you. Happy Learning !
+
+
+
 
 
 
