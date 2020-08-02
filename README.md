@@ -100,7 +100,7 @@ A lot of publicly available datasets can be found in the internet. Two popular s
 - [Kaggle datasets](https://www.kaggle.com/datasets)
 
 ### 4. Cry out loud when you don't find the dataset for your specific problem.
-![alt text](https://i.pinimg.com/564x/01/e9/85/01e985a6294b3b0f18e11faa775e97f4.jpg)
+![alt text](https://www.malayalamplainmemes.download/images/the-great-father-mammootty-infdb/full)
 
 ### 5. Collect dataset using crowd source or other means
 
