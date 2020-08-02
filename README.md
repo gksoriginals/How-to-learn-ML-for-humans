@@ -13,8 +13,8 @@ Programming knowledge is a must obviously.
 3. Writing methods and using decorators.
 4. Object oriented python: class, inheritance.
 
-:bulb: The book [automate the boring stuff](https:automatetheboringstuff.com) is the best.
-
+:bulb: The book [automate the boring stuff](https:automatetheboringstuff.com) is a good resource.
+:crystal_ball: [Articles](https://pythonprogramming.net) and [Youtube videos](https://www.youtube.com/user/sentdex) by [Sentdex](https://twitter.com/Sentdex) is awesome!
 
 ### Install and setup stuffs :construction:
 
@@ -24,7 +24,7 @@ Things you need and need not.
 2. A high end GPU :x:
 3. Python installed [directly](https://www.python.org) or using [anaconda](https://www.anaconda.com)/[miniconda](https://docs.conda.io/en/latest/miniconda.html#) :white_check_mark:
 4. A heavy IDE like pycharm or spyder :interrobang:
-
+5. Use light weight IDEs like [VScode](https://code.visualstudio.com) :white_check_mark:
 :bulb: Make sure you integrated installed python with your IDE and [intellisense](https://docs.microsoft.com/en-us/visualstudio/ide/using-intellisense?view=vs-2019) works fine.
 
 :full_moon_with_face: for god sake don't use notepad to code!
